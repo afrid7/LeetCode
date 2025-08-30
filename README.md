@@ -6,6 +6,7 @@ LeetCode Solved Problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/afrid7/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/afrid7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/afrid7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -21,6 +22,7 @@ LeetCode Solved Problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/afrid7/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/afrid7/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/afrid7/LeetCode/tree/master/0027-remove-element) |
 | [0560-subarray-sum-equals-k](https://github.com/afrid7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
