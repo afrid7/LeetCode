@@ -25,6 +25,7 @@ LeetCode Solved Problems
 | [0001-two-sum](https://github.com/afrid7/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/afrid7/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/afrid7/LeetCode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/afrid7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/afrid7/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/afrid7/LeetCode/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/afrid7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -64,4 +65,12 @@ LeetCode Solved Problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/afrid7/LeetCode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/afrid7/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/afrid7/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
