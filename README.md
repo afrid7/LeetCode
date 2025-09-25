@@ -37,6 +37,7 @@ LeetCode Solved Problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afrid7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/afrid7/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/afrid7/LeetCode/tree/master/0344-reverse-string) |
+| [0908-middle-of-the-linked-list](https://github.com/afrid7/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +47,7 @@ LeetCode Solved Problems
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/afrid7/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/afrid7/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/afrid7/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
