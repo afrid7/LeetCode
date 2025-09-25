@@ -12,25 +12,36 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
         bool isCycle = false;
-        
-        while(fast != NULL && fast->next != NULL){
+
+        while (fast != NULL && fast->next != NULL) {
             slow = slow->next;
             fast = fast->next->next;
 
-            if(slow==fast){
+            if (slow == fast) {
                 isCycle = true;
                 break;
             }
         }
-        if(! isCycle){
+
+        if (!isCycle) 
             return NULL;
-        }
+
         slow = head;
-        while(slow != fast){
+        ListNode* prev = NULL;
+        while (slow != fast) {
+            prev = fast;   
             slow = slow->next;
             fast = fast->next;
         }
-        return slow;
-        
+        if (prev != NULL) {
+            prev->next = NULL;
+        } else {
+            while (fast->next != slow) {
+                fast = fast->next;
+            }
+            fast->next = NULL;
+        }
+
+        return slow; 
     }
 };
