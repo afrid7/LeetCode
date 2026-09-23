@@ -17,6 +17,7 @@ LeetCode Solved Problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/afrid7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afrid7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/afrid7/LeetCode/tree/master/0344-reverse-string) |
+| [1544-make-the-string-great](https://github.com/afrid7/LeetCode/tree/master/1544-make-the-string-great) |
 | [3498-reverse-degree-of-a-string](https://github.com/afrid7/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -90,4 +91,8 @@ LeetCode Solved Problems
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/afrid7/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/afrid7/LeetCode/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
