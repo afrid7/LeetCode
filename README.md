@@ -11,6 +11,7 @@ LeetCode Solved Problems
 | [0141-linked-list-cycle](https://github.com/afrid7/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/afrid7/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/afrid7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/afrid7/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ LeetCode Solved Problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afrid7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/afrid7/LeetCode/tree/master/0344-reverse-string) |
 | [1544-make-the-string-great](https://github.com/afrid7/LeetCode/tree/master/1544-make-the-string-great) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/afrid7/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/afrid7/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
