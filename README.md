@@ -31,6 +31,7 @@ LeetCode Solved Problems
 | [0001-two-sum](https://github.com/afrid7/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/afrid7/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/afrid7/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/afrid7/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/afrid7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/afrid7/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/afrid7/LeetCode/tree/master/0189-rotate-array) |
@@ -97,4 +98,8 @@ LeetCode Solved Problems
 |  |
 | ------- |
 | [1544-make-the-string-great](https://github.com/afrid7/LeetCode/tree/master/1544-make-the-string-great) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/afrid7/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
