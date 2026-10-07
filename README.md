@@ -11,6 +11,7 @@ LeetCode Solved Problems
 | [0141-linked-list-cycle](https://github.com/afrid7/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/afrid7/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/afrid7/LeetCode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/afrid7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/afrid7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/afrid7/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -38,6 +39,7 @@ LeetCode Solved Problems
 | [0136-single-number](https://github.com/afrid7/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/afrid7/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/afrid7/LeetCode/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/afrid7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/afrid7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -50,6 +52,7 @@ LeetCode Solved Problems
 | [0142-linked-list-cycle-ii](https://github.com/afrid7/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/afrid7/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/afrid7/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/afrid7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/afrid7/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -57,6 +60,7 @@ LeetCode Solved Problems
 | [0015-3sum](https://github.com/afrid7/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/afrid7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/afrid7/LeetCode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/afrid7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -109,6 +113,7 @@ LeetCode Solved Problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/afrid7/LeetCode/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/afrid7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
